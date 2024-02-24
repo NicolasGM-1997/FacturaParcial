@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459707591764",
+    "project_id": "facturaparcial",
+    "storage_bucket": "facturaparcial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459707591764:android:5079b36fca43e9a159d1c1",
+        "android_client_info": {
+          "package_name": "com.example.facturaparcial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBno_iLRRAeBUplPcNOPKab5WdQeMm9owo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
